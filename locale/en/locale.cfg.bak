@@ -14,4 +14,3 @@ sbc-more-air=Make amount of pressured air match amount of hot air
 sbc-warm-minutes=How much time in minutes it takes for stone bricks to cool down from warm to ambient temperature state.
 sbc-warmer-minutes=How much time in minutes it takes for stone bricks to cool down from warmer to warm state.
 sbc-hot-minutes=How much time in minutes it takes for stone bricks to cool down from hot to warmer state.
-sbc-more-air=It will take same amount of pressured air to make hot air when using recipes with stone bricks.
