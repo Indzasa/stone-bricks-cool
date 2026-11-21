@@ -5,7 +5,7 @@
   "author": "Indzasa",
   "homepage": "",
   "description": "Hot, warmer and warm stone bricks cool down to their colder version, up to regular stone bricks.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base",
     "pyhardmode"
